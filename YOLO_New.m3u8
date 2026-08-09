@@ -196,3 +196,551 @@ https://go.skym3u.top/live/3b1f0d3d095a703f160643131b481a0271200c17174a443d00445
 https://go.skym3u.top/live/3b1f0d3d095a703f160643131b481a0271200c17174a443d00445e54395a1b2e0027360856201b005c331b2c0c1a162a1f121d105b7a5a6f3e324c00642f320a0c3b1e280024073b36190d3a1f3c4112656a5f6c3e2d1017591e261d213404280712072d261a532a18340c124b79417f3d3a10025a3f371e3137592c29301939251e562c362c47125876597b073a0e17671d331e22275c3b393f052e081e572c312c07165f615b793a2248007720271f3115042d2d2f173d353c0c2d262047126665007f3a1c102f603c69190b205f280712072e17020c2c1b2c03165c00574f195a30275c1c3e1837420e250113220e1a662b30461c390b77457f5c301e3419660d103a2843201b2f50220e38292b273f1310325e5b68616b1e1b197d4410145c5d1b080a00015a3260105b.m3u8
 #EXTINF:-1 tvg-id="epg1:Шёлк" tvg-name="epg1:Шёлк" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Шёлк.png" group-title="XXX" tvg-server="Server 1",Шёлк
 https://go.skym3u.top/live/3b1f0d3d095a703f160643131b481a0271200c17174a443d00445e54395a1b2e0027360856201b005c331b2c0c1a162a1f121d105b7a5a6f3e324c00642f320a0c3b1e280024073b36190d3a1f3c4112656a5f6c3e2d1017591e261d213404280712072d261a532a18200d126179417f3d3a10025a3f371e3137592c29301939251e562c362c47125876597b073a0e17671d331e22275c3b393f052e081e572c312c07165f615b793a2248007720271f3115042d2d2f173d353c0c2d262047126665007f3a1c102f603c69190b205f280712072e17020c2c1b2c03165c00574f195a30275c1c3e1837420e250113220e1a662b30461c390b77457f5c301e3419660d103a2843201b2f50220e382b2809191310325e5b68616b1e1b197d4410145c5d1b080a00015a3260105b.m3u8
+#EXTINF:-1 group-title="Sister" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Sister 1
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850084.ts
+#EXTINF:-1 group-title="Sister" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Sister 2
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850267.ts
+#EXTINF:-1 group-title="Sister" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Sister 3
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855896.ts
+#EXTINF:-1 group-title="Sister" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Sister 4
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856130.ts
+#EXTINF:-1 group-title="Sister" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Sister 5
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856154.ts
+#EXTINF:-1 group-title="Step Siblings" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Step 1
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/849928.ts
+#EXTINF:-1 group-title="Step Siblings" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Step 2
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855885.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 1
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850153.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 2
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850174.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 3
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850215.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 4
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850217.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 5
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/849963.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 6
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850008.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 7
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855888.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 8
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855967.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 9
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856093.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 10
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856094.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 11
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856095.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 12
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856096.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 13
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856177.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 14
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855685.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 15
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855697.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 16
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855717.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 17
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855760.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 18
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855761.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 19
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855775.ts
+#EXTINF:-1 group-title="Family" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Family 20
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855786.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 1
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855763.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 2
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855752.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 3
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855712.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 4
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855671.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 5
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856192.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 6
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855975.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 7
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855974.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 8
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855973.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 9
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855972.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 10
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855971.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 11
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855968.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 12
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855942.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 13
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855863.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 14
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/849948.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 15
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850296.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 16
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850155.ts
+#EXTINF:-1 group-title="Mom" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mom 17
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850133.ts
+#EXTINF:-1 group-title="Porn Stars" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Eva Elfie
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856099.ts
+#EXTINF:-1 group-title="Porn Stars" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Mia Khalifa
+http://zxonetv01.xyz:8080/live/yr2s1MD9/eybyaB4RNSqh/850160.ts
+#EXTINF:-1 group-title="Fantasy" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg", Cosplay
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856137.ts
+#EXTINF:-1 group-title="Fantasy" tag="https://imglink.cc/cdn/yt3iPmzqF9.jpg", Hentai
+http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856071.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Big Tits (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Blowjob (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Lesbian (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Fetish HD 720 (18+)
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 1",Teen HD 720 (18+)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="Adult 2",XXX 59
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/59.ts
+#EXTINF:-1 group-title="Adult 2",XXX 60
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/60.ts
+#EXTINF:-1 group-title="Adult 2",XXX 61
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/61.ts
+#EXTINF:-1 group-title="Adult 2",XXX 62
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/62.ts
+#EXTINF:-1 group-title="Adult 2",XXX 63
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/63.ts
+#EXTINF:-1 group-title="Adult 2",XXX 64
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/64.ts
+#EXTINF:-1 group-title="Adult 2",XXX 65
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/65.ts
+#EXTINF:-1 group-title="Adult 2",XXX 66
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/66.ts
+#EXTINF:-1 group-title="Adult 2",XXX 67
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/67.ts
+#EXTINF:-1 group-title="Adult 2",XXX 68
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/68.ts
+#EXTINF:-1 group-title="Adult 2",XXX 69
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/69.ts
+#EXTINF:-1 group-title="Adult 2",XXX 70
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/70.ts
+#EXTINF:-1 group-title="Adult 2",XXX 71
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/71.ts
+#EXTINF:-1 group-title="Adult 2",XXX 72
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/72.ts
+#EXTINF:-1 group-title="Adult 2",XXX 73
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/73.ts
+#EXTINF:-1 group-title="Adult 2",XXX 74
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/74.ts
+#EXTINF:-1 group-title="Adult 2",XXX 75
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/75.ts
+#EXTINF:-1 group-title="Adult 2",XXX 76
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/76.ts
+#EXTINF:-1 group-title="Adult 2",XXX 77
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/77.ts
+#EXTINF:-1 group-title="Adult 2",XXX 78
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/78.ts
+#EXTINF:-1 group-title="Adult 2",XXX 79
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/79.ts
+#EXTINF:-1 group-title="Adult 2",XXX 80
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/80.ts
+#EXTINF:-1 group-title="Adult 2",XXX 81
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/81.ts
+#EXTINF:-1 group-title="Adult 2",XXX 82
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/82.ts
+#EXTINF:-1 group-title="Adult 2",XXX 585
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/585.ts
+#EXTINF:-1 group-title="Adult 2",XXX 586
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/586.ts
+#EXTINF:-1 group-title="Adult 2",XXX 587
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/587.ts
+#EXTINF:-1 group-title="Adult 2",XXX 588
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/588.ts
+#EXTINF:-1 group-title="Adult 2",XXX 589
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/589.ts
+#EXTINF:-1 group-title="Adult 2",XXX 590
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/590.ts
+#EXTINF:-1 group-title="Adult 2",XXX 591
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/591.ts
+#EXTINF:-1 group-title="Adult 2",XXX 592
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/592.ts
+#EXTINF:-1 group-title="Adult 2",XXX 593
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/593.ts
+#EXTINF:-1 group-title="Adult 2",XXX 594
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/594.ts
+#EXTINF:-1 group-title="Adult 2",XXX 595
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/595.ts
+#EXTINF:-1 group-title="Adult 2",XXX 596
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/596.ts
+#EXTINF:-1 group-title="Adult 2",XXX 597
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/597.ts
+#EXTINF:-1 group-title="Adult 2",XXX 598
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/598.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1258
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1258.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1259
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1259.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1260
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1260.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1261
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1261.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1262
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1262.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1263
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1263.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1264
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1264.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1265
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1265.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1266
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1266.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1267
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1267.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1268
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1268.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1269
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1269.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1270
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1270.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1271
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1271.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1272
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1272.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1273
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1273.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1274
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1274.ts
+#EXTINF:-1 group-title="Adult 2",XXX 1275
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/1275.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6116
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6116.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6117
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6117.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6118
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6118.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6119
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6119.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6120
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6120.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6121
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6121.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6122
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6122.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6123
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6123.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6124
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6124.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6125
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6125.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6126
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6126.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6127
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6127.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6128
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6128.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6129
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6129.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6130
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6130.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6131
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6131.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6132
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6132.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6133
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6133.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6134
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6134.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6135
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6135.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6136
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6136.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6137
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6137.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6138
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6138.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6139
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6139.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6140
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6140.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6141
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6141.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6142
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6142.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6143
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6143.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6144
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6144.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6145
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6145.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6146
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6146.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6147
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6147.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6148
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6148.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6149
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6149.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6150
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6150.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6151
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6151.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6152
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6152.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6153
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6153.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6154
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6154.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6155
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6155.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6156
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6156.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6157
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6157.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6158
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6158.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6159
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6159.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6160
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6160.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6161
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6161.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6162
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6162.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6163
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6163.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6164
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6164.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6165
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6165.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6166
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6166.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6167
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6167.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6168
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6168.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6169
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6169.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6170
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6170.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6171
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6171.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6172
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6172.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6173
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6173.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6174
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6174.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6175
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6175.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6176
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6176.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6177
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6177.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6178
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6178.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6179
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6179.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6180
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6180.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6181
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6181.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6182
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6182.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6183
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6183.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6184
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6184.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6185
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6185.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6186
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6186.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6187
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6187.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6188
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6188.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6189
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6189.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6190
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6190.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6191
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6191.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6192
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6192.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6193
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6193.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6194
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6194.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6195
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6195.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6196
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6196.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6197
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6197.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6198
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6198.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6199
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6199.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6200
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6200.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6201
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6201.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6202
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6202.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6203
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6203.ts
+#EXTINF:-1 group-title="Adult 2",XXX 6204
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/6204.ts
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Gay (720p)
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX Porn",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="XXX Porn",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="XXX Porn",Jenny For You (720p)
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="XXX Porn",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX Porn",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="XXX Porn",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="XXX Porn",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Porn",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Porn",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX Porn",O-la-la! (576p)
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX Porn",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX Porn",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Japan"  group-title="XXX Porn",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-id="Japan"  group-title="XXX Porn",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-id="Japan"  group-title="XXX Porn",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-id="Japan"  group-title="XXX Porn",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="Japan"  group-title="XXX Porn",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",欧美01
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",欧美02
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",松视1
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",松视2
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",玩美台
+http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="XXX Porn",限制级
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+#EXTINF:-1 group-title="Porn Sites" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Chachi Full
+https://cdn2.pvvstream.pro/videos/-174414827/456241138/vid_480p.mp4?secure=1784351164-0qb5JEmiwK15OtraPzDH0zPE6D3KTiZlpv3VzYo+8Ek=
+#EXTINF:-1 group-title="Porn Sites" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Ragini 1
+https://video-nss.xhcdn.com/1yLtHT-JLzzCmK2IkhKMug==,1784368800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/029/349/800/720p.av1.mp4/init-v1-a1.mp4
+#EXTINF:-1 group-title="Porn Sites" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Imli
+https://8vsbw0cqoknu.tnmr.org/hls2/02/04001/u96syz6zwse8_h/index-v1-a1.m3u8?t=ElmEzdJWoMKFrhoPEqC0Of1QNh_FzOXFerYZUBEHQB4&s=1784352485&e=28800&f=20007232&i=0.3&sp=0
+#EXTINF:-1 group-title="Porn Sites" tvg-logo="https://imglink.cc/cdn/yt3iPmzqF9.jpg",Imli 2
+https://3idpeoiogbfv.tnmr.org/hls2/02/04006/sq2hj0kqlnyz_h/index-v1-a1.m3u8?t=BUpCabOOEW9eh1Qn4SV82OXzlM31O9hgfx3wObsUK9s&s=1784352926&e=28800&f=20033879&i=0.3&sp=0
